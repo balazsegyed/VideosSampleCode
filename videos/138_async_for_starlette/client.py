@@ -6,8 +6,9 @@ import httpx
 
 async def fake_file_data():
     yield b"hello, "
-    await asyncio.sleep(0.1) # fake lag
+    await asyncio.sleep(0.1)  # fake lag
     yield b"world"
+
 
 async def main():
     async with httpx.AsyncClient() as client:

@@ -1,5 +1,6 @@
 import asyncio
 import time
+from collections.abc import Iterable, Awaitable
 
 
 async def use_api(x: int):
