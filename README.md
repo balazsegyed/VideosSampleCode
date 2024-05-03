@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 140 | [src](videos/140_asgi_fundamentals) | [ASGI Fundamentals: Asynchronous Web Apps in Python](https://youtu.be/oYrnTQAFH1Q) |
 | 139 | [src](videos/139_windows_cmd_vuln) | [New Windows Command Escape Vulnerability - Critical CVE ... or is it?](https://youtu.be/WNmNXc_EZdM) |
 | 138 | [src](videos/138_async_for_starlette) | [Async for loops in Python](https://youtu.be/dEZKySL3M9c) |
 | 137 | [src](videos/137_context_managers) | [The ins and outs of context managers and try-finally in Python](https://youtu.be/LBJlGwJ899Y) |
