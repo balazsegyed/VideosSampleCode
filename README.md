@@ -12,7 +12,11 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
-| 142 | [src](videos/142_asgi_lifespans) | [What you need to know about Startup and Shutdown Events in FastAPI and ASGI Applications](https://youtu.be/_CzaciNrHRE) |
+| 146 | [src](videos/146_docker_tutorial) | [Docker Tutorial for Beginners](https://youtu.be/b0HMimUb4f0) |
+| 145 | [src](videos/145_all_itertools) | [Python itertools - The key to mastering iteration](https://youtu.be/1p7xa_BHYDs) |
+| 144 | [src](videos/144_all_builtin_python_builtin_functions) | [All 71 built-in Python functions](https://youtu.be/7Qu_KXc7xSI) |
+| 143 | [src](videos/143_top_5_editor_productivity_hacks) | [Top 5 IDE Productivity Hacks That Will Save You Time Programming](https://youtu.be/HBC7i1AbsyA) |
+| 142 | [src](videos/142_asgi_lifespans) | [](https://youtu.be/_CzaciNrHRE) |
 | 141 | [src](videos/141_asgi_app_func_or_class) | [Application classes vs. functions](https://youtu.be/ai7y--6ElAE) |
 | 140 | [src](videos/140_asgi_fundamentals) | [Asynchronous Web Apps in Python](https://youtu.be/oYrnTQAFH1Q) |
 | 139 | [src](videos/139_windows_cmd_vuln) | [New Windows Command Escape Vulnerability - Critical CVE ... or is it?](https://youtu.be/WNmNXc_EZdM) |
