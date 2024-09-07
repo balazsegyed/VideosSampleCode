@@ -8,7 +8,7 @@ logger = logging.getLogger("my_app")  # __name__ is a common choice
 
 
 def setup_logging():
-    config_file = pathlib.Path("logging_configs/2-stderr-json-file.json")
+    config_file = pathlib.Path("logging_configs/5-queued-stderr-json-file.json")
     with open(config_file) as f_in:
         config = json.load(f_in)
 
