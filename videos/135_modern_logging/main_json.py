@@ -4,11 +4,12 @@ import logging.config
 import logging.handlers
 import pathlib
 
-logger = logging.getLogger("my_app")  # __name__ is a common choice
+# This logger works under python 3.12+
+logger = logging.getLogger(__name__)  # __name__ is a common choice
 
 
 def setup_logging():
-    config_file = pathlib.Path("logging_configs/5-queued-stderr-json-file.json")
+    config_file = pathlib.Path("logging_configs/queued-json-file.json")
     with open(config_file) as f_in:
         config = json.load(f_in)
 
